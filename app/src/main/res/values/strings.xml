@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Event Mangement app</string>
+    <string name="welcomeToUser">Welcome Back, John!</string>
+    <string name="search_hint">Search</string>
+    <string name="numberOfRequestNotification">You hava 8 booking requests</string>
+    <string name="upcomingEvents">Upcoming Events</string>
+    <string name="arrowRight">This arrow direct to all booking request screen</string>
+    <string name="avatar1">user avatar</string>
+    <string name="collegeName">BIET Club</string>
+</resources>
